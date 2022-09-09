@@ -1,0 +1,34 @@
+[
+   {
+      "id": 1,
+      "name": "Ayrton",
+      "age": 24,
+      "email": "ayrton@gmail.com",
+      "password": "123456",
+      "role": "ADMIN"
+   },
+   {
+      "id": 2,
+      "name": "Ignacio",
+      "age": 25,
+      "email": "nacho@gmail.com",
+      "password": "123456",
+      "role": "ADMIN"
+   },
+   {
+      "id": 3,
+      "name": "Rodrigo",
+      "age": 26,
+      "email": "rodri@gmail.com",
+      "password": "123456",
+      "role": "USER"
+   },
+   {
+      "id": 4,
+      "name": "Joaquin",
+      "age": 30,
+      "email": "joaco@gmail.com",
+      "password": "123456",
+      "role": "USER"
+   }
+]
